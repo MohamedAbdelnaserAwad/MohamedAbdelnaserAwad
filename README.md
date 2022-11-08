@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter or Android Native**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1kLj63JzwNeeEdfHg-6SHkE9k3DRecNA0/view?usp=sharing](https://drive.google.com/file/d/1uNj2wspnY0QrhlPQI2YsqaXvnXSKw3l_/view?usp=sharing)]
+- 📄 Know about my experiences [(https://shortest.link/7Kai)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
