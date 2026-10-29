@@ -2,7 +2,7 @@
   <img src="assets/github-banner.png" alt="Software Engineer & Tech Lead" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed Abdelnaser</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Awad</h1>
 <h3 align="center">Software Engineer & Tech Lead from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
