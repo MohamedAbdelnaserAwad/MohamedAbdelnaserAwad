@@ -7,10 +7,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **my startup**
-- 🌱 I’m currently learning **Artificial Intelligence**
-- 💬 Ask me about **Flutter or Android Native**
-- 📄 [Know about my experience](https://shortest.link/7Kai)
+### 👨‍💻 About Me
+
+I’m Mohamed Awad , a Software Engineer & Tech Lead from Egypt, focused on building mobile applications and guiding teams from idea to delivery.
+
+My experience includes Flutter, native Android development, Dart, and Java**, with tools such as **Firebase, Git, and Postman** supporting my development workflow. I care about maintainable code, thoughtful technical decisions, and applications that solve real user problems.
+
+As a tech lead, I bring engineering and teamwork together—helping translate product goals into clear technical direction and supporting developers through implementation and delivery.
+
+- 🚀 Entrepreneurship: Building my startup and turning ideas into practical products.
+- 📱 Mobile Engineering: Developing applications with Flutter and native Android.
+- 🤝 Technical Leadership: Guiding implementation, collaborating with teammates, and sharing knowledge.
+- 🌱 Continuous Learning: Exploring Artificial Intelligence and its applications in software development.
+- 💬 Let’s Talk: Mobile development, software architecture, and technical leadership.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
